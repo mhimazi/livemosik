@@ -1,16 +1,14 @@
 {
-"dilogNewSong":{
-
-"dialogVisble": "yes",
-"imag_alubom": "https://pbs.twimg.com/profile_images/879668841172938752/8C7jYIaG.jpg",
-"text_title": "جديد يارا",
-"imag_new_tikit": "http://www.sm3na.com/images/new.gif",
-"text_mew_tikit": "البوم يارا الجديد",
- },
-"younessObject":{		
-       
-         "imag_splash":"https://png.pngtree.com/thumb_back/fw800/back_pic/00/03/79/97561fbd6376ee3.jpg"
-     },
+  "dilogNewSong": {
+    "dialogVisble": "yes",
+    "imag_alubom": "https://pbs.twimg.com/profile_images/879668841172938752/8C7jYIaG.jpg",
+    "text_title": "جديد يارا",
+    "imag_new_tikit": "http://www.sm3na.com/images/new.gif",
+    "text_mew_tikit": "البوم يارا الجديد"
+  },
+  "younessObject": {
+    "imag_splash": "https://png.pngtree.com/thumb_back/fw800/back_pic/00/03/79/97561fbd6376ee3.jpg"
+  },
   "visibilityObject": {
     "active_message": "قريبا 💖💝💖💗💓💗",
     "logo": "https://archive.org/download/flogg/flogg.gif",
@@ -41,32 +39,28 @@
       {
         "id": "7",
         "name": "سنة 2018",
-                "text_tost": "youness elabdelloui",
-
+        "text_tost": "youness elabdelloui",
         "web_url": "https://www.youtube.com/watch?v=lFhKVp7q9X8",
         "image_url": "https://4.bp.blogspot.com/-q0OXNQIq5mE/WihS4EbRxYI/AAAAAAAAAeM/IrySo96RNQ4KcRuBA74LwQgtfu5xDx6sQCLcBGAs/s1600/happy-new-year-2018-animation-fireworks-6062126467.gif"
       },
       {
         "id": "8",
         "name": "موسيق ",
-                "text_tost": "youness elabdelloui",
-
+        "text_tost": "youness elabdelloui",
         "web_url": "http://douniamp3.org/اغاني_مصرية/0.html",
         "image_url": "https://i.ytimg.com/vi/NtV8I1Awf4k/maxresdefault.jpg"
       },
       {
         "id": "9",
         "name": "نانسي",
-                "text_tost": "youness elabdelloui",
-
+        "text_tost": "youness elabdelloui",
         "web_url": "http://www.dndnha.com/aghany-sha3by.html",
         "image_url": "http://douniamp3.org/imag/أغنية-نانسي-عجرم-كيفك-بالحب.jpg"
       },
       {
         "id": "10",
         "name": "مريم",
-                "text_tost": "youness elabdelloui",
-
+        "text_tost": "youness elabdelloui",
         "web_url": "http://www.sm3na.com",
         "image_url": "http://www.wattan.tv/data/image/full/03087187506531047685401162352733.jpg"
       },
@@ -80,40 +74,35 @@
       {
         "id": "2",
         "name": "وردة",
-                "text_tost": "youness elabdelloui",
-
+        "text_tost": "youness elabdelloui",
         "web_url": "open",
         "image_url": "https://modo3.com/thumbs/fit630x300/3829/1362571889/أجمل_أغاني_وردة.jpg"
       },
       {
         "id": "3",
         "name": "نجوم كرم",
-                "text_tost": "youness elabdelloui",
-
+        "text_tost": "youness elabdelloui",
         "web_url": "",
         "image_url": "https://www.muhtwa.com/wp-content/uploads/9-17-720x300.jpg"
       },
       {
         "id": "4",
         "name": "عاصى الحلانى",
-                "text_tost": "youness elabdelloui",
-
+        "text_tost": "youness elabdelloui",
         "web_url": "",
         "image_url": "https://www.muhtwa.com/wp-content/uploads/7-39.jpg"
       },
       {
         "id": "5",
         "name": "الاطفال",
-                "text_tost": "youness elabdelloui",
-
+        "text_tost": "youness elabdelloui",
         "web_url": "",
         "image_url": "http://4.bp.blogspot.com/-_aReU99jQ60/UrLHrz72pWI/AAAAAAAAAG0/11Yz31AWBsE/s1600/images+(2).jpg"
       },
       {
         "id": "6",
         "name": "ديانا حداد",
-                "text_tost": "youness elabdelloui",
-
+        "text_tost": "youness elabdelloui",
         "web_url": "",
         "image_url": "http://imagess.net/wp-content/uploads/2017/03/4195-9.jpg"
       }
