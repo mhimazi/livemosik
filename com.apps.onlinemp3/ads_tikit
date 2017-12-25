@@ -1,10 +1,10 @@
 {
   "dilogNewSong": {
-    "dialogVisble": "yes",
+     
     "imag_alubom": "https://pbs.twimg.com/profile_images/879668841172938752/8C7jYIaG.jpg",
     "text_title": "جديد يارا",
     "imag_new_tikit": "http://www.sm3na.com/images/new.gif"
-   },
+  },
   "younessObject": {
     "imag_splash": "https://png.pngtree.com/thumb_back/fw800/back_pic/00/03/79/97561fbd6376ee3.jpg"
   },
