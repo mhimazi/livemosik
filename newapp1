@@ -1,6 +1,4 @@
 {
-  "showapi_res_code": 0,
-  "showapi_res_error": "",
   "showapi_res_body": {
     "ret_code": 0,
     "pagebean": {
@@ -8,41 +6,20 @@
         {
           "songname": "مهرجان ع الحبس عزمني 2",
           "seconds": 234,
-          "albummid": "004gfAkV4K4lBa",
           "songid": 212623641,
-          "singerid": 5062,
           "albumpic_big": "http://more-cliparts.net/images/BTarRRGEc.jpg",
-          "albumpic_small": "https://www.gitarhuset.no/Media/Cache/Images/1/7/WEB_Image%201-1001105%20-700846716.Jpeg",
-          "downUrl": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
           "url": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
-          "singername": "مهرجان ع الحبس عزمني 1",
-          "albumid": 3833404
+          "singername": "مهرجان ع الحبس عزمني 1"
         },
         {
           "songname": "مهرجان",
           "seconds": 234,
-          "albummid": "004gfAkV4K4lBa",
           "songid": 212623641,
-          "singerid": 5062,
           "albumpic_big": "https://www.gitarhuset.no/Media/Cache/Images/1/7/WEB_Image%201-1001105%20-700846716.Jpeg",
-          "albumpic_small": "",
-          "downUrl": "",
           "url": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
-          "singername": "عزمني",
-          "albumid": 3833404
-        } 
-      ],
-      "total_song_num": 100,
-      "ret_code": 0,
-      "update_time": "2017-12-28",
-      "color": 8416860,
-      "cur_song_num": 100,
-      "comment_num": 6724,
-      "currentPage": 1,
-      "code": 0,
-      "song_begin": 0,
-      "day_of_year": "",
-      "totalpage": 1
+          "singername": "عزمني"
+        }
+      ]
     }
   }
 }
