@@ -1,16 +1,14 @@
 {
-  "showapi_res_body": {
+  "applist": {
     "ret_code": 0,
-    "pagebean": {
-      "alubomSong": [
-        {
-          "id": 1,
-          "title": "محمد الشحي",
-          "url": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
-          "image": "http://more-cliparts.net/images/BTarRRGEc.jpg",
-          "seconds": ""
-        }
-      ]
-    }
+    "alubomSong": [
+      {
+        "id": 1,
+        "title": "محمد الشحي",
+        "url": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
+        "image": "http://more-cliparts.net/images/BTarRRGEc.jpg",
+        "seconds": "300"
+      }
+    ]
   }
 }
