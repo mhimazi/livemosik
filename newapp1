@@ -1,73 +1,12 @@
 {
-  "showapi_res_body": {
-    "ret_code": 0,
-    "pagebean": {
-      "songlist": [
-        {
-          "songname": "مهرجان ع الحبس عزمني 2",
-          "seconds": 234,
-          "songid": 1,
-          "albumpic_big": "http://more-cliparts.net/images/BTarRRGEc.jpg",
-          "url": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
-          "singername": "مهرجان ع الحبس عزمني 1"
-        },
-        {
-          "songname": "مهرcdvcrcجان",
-          "seconds": 234,
-          "songid": 2,
-          "albumpic_big": "https://www.gitarhuset.no/Media/Cache/Images/1/7/WEB_Image%201-1001105%20-700846716.Jpeg",
-          "url": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
-          "singername": "عزمني"
-        },
-        {
-          "songname": "ads",
-          "seconds":433 ,
-          "songid": 3,
-          "albumpic_big": "https://thedepanneur.ca/wp-content/uploads/2017/12/2018.jpg",
-          "url": "http://ss1.sm3na.com/1545/Sm3na_com_47990.mp3",
-          "singername": "fdfferfer"
-        },
-        {
-          "songname": "مهرجانcdcds",
-          "seconds": 234,
-          "songid": 4,
-          "albumpic_big": "https://st.depositphotos.com/1023102/2174/i/950/depositphotos_21745081-stock-photo-3d-gold-year-2018-on.jpg",
-          "url": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
-          "singername": "عزمنfdfdي"
-        } ,
-        {
-          "songname": "you",
-          "seconds": 234,
-          "songid": 5,
-          "albumpic_big": "https://st.depositphotos.com/1023102/2174/i/950/depositphotos_21745081-stock-photo-3d-gold-year-2018-on.jpg",
-          "url": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
-          "singername": "عزمنfdfdي"
-        } ,
-        {
-          "songname": "nan",
-          "seconds": 234,
-          "songid": 6,
-          "albumpic_big": "https://st.depositphotos.com/1023102/2174/i/950/depositphotos_21745081-stock-photo-3d-gold-year-2018-on.jpg",
-          "url": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
-          "singername": "عزمنfdfdي"
-        } ,
-        {
-          "songname": "ads",
-          "seconds": 234,
-          "songid": 7,
-          "albumpic_big": "https://st.depositphotos.com/1023102/2174/i/950/depositphotos_21745081-stock-photo-3d-gold-year-2018-on.jpg",
-          "url": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
-          "singername": "عزمنfdfdي"
-        } ,
-        {
-          "songname": "samira",
-          "seconds": 234,
-          "songid": 8,
-          "albumpic_big": "https://st.depositphotos.com/1023102/2174/i/950/depositphotos_21745081-stock-photo-3d-gold-year-2018-on.jpg",
-          "url": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
-          "singername": "عزمنfdfdي"
-        } 
-      ]
+  "alubomSong": [
+    {
+      "id": 1,
+      "title": "محمد الشحي",
+      "url": "http://ms16.sm3na.com/1540/Sm3na_com_47473.mp3",
+      "image": "http://more-cliparts.net/images/BTarRRGEc.jpg",
+      "singername": "مهرجان ع الحبس عزمني 1",
+      "seconds": ""
     }
-  }
+  ]
 }
