@@ -1,5 +1,7 @@
 {
-  "app": "s.mosic.arabc",
+  "neam_pac": {
+    "app": "s.mosic.arabc"
+  },
   "showsong": {
     "errorcode": 0,
     "pagebine": {
