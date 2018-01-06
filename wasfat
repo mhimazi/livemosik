@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Nutella Pie",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "measure": "",
+        "ingredient": ""
+      }
+    ],
+    "steps": [
+      {
+        "id": 0,
+        "shortDescription": "عنولن",
+        "description": "ب",
+        "videoURL": "",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 1,
+        "shortDescription": "عنولن",
+        "description": "ب",
+        "videoURL": "",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 2,
+        "shortDescription": "عنولن",
+        "description": "ب",
+        "videoURL": "",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 3,
+        "shortDescription": "عنولن",
+        "description": "ب",
+        "videoURL": "",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 4,
+        "shortDescription": "عنولن",
+        "description": "ب",
+        "videoURL": "",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 5,
+        "shortDescription": "عنولن",
+        "description": "ب",
+        "videoURL": "",
+        "thumbnailURL": ""
+      },
+      {
+        "id": 6,
+        "shortDescription": "عنولن",
+        "description": "ب",
+        "videoURL": "",
+        "thumbnailURL": ""
+      }
+    ],
+    "servings": 8,
+    "image": ""
+  }
+]
