@@ -14,53 +14,28 @@
         "id": 0,
         "shortDescription": "عنولن",
         "description": "ب",
-        "videoURL": "",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 1,
-        "shortDescription": "عنولن",
-        "description": "ب",
-        "videoURL": "",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 2,
-        "shortDescription": "عنولن",
-        "description": "ب",
-        "videoURL": "",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 3,
-        "shortDescription": "عنولن",
-        "description": "ب",
-        "videoURL": "",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 4,
-        "shortDescription": "عنولن",
-        "description": "ب",
-        "videoURL": "",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 5,
-        "shortDescription": "عنولن",
-        "description": "ب",
-        "videoURL": "",
-        "thumbnailURL": ""
-      },
-      {
-        "id": 6,
-        "shortDescription": "عنولن",
-        "description": "ب",
-        "videoURL": "",
-        "thumbnailURL": ""
+        "videoURL": "https://www.seoclerk.com/pics/563014-14iZgY1507651213.jpg",
+        "thumbnailURL": "https://www.seoclerk.com/pics/563014-14iZgY1507651213.jpg"
       }
     ],
     "servings": 8,
-    "image": ""
+    "image": "https://www.seoclerk.com/pics/563014-14iZgY1507651213.jpg"
+  },{
+        "quantity": 3,
+        "measure": "",
+        "ingredient": ""
+      }
+    ],
+    "steps": [
+      {
+        "id": 0,
+        "shortDescription": "عنولن",
+        "description": "ب",
+        "videoURL": "http://www.noonpresse.com/wp-content/uploads/2016/07/tajin-noon-750x410.jpg",
+        "thumbnailURL": "http://www.noonpresse.com/wp-content/uploads/2016/07/tajin-noon-750x410.jpg"
+      }
+    ],
+    "servings": 3,
+    "image": "http://www.noonpresse.com/wp-content/uploads/2016/07/tajin-noon-750x410.jpg"
   }
 ]
